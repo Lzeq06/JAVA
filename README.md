@@ -25,6 +25,7 @@
 
 <br>
 
+
 ## Projetos
 
 <br>
@@ -43,6 +44,9 @@
 | 10 | cal_volume              | Calcula o volume de uma lata utilizando raio e altura                    | [Abrir](./cal_volume.java) |
 | 11 | Multiplo_3              | Verifica se um número é múltiplo de 3                                    | [Abrir](./Multiplo_3.java) |
 | 12 | Ordem_crescente         | Ordena três números em ordem crescente                                   | [Abrir](./Ordem_crescente.java) |
+| 13 | Pares                   | Exibe números pares dentro de um intervalo informado pelo usuário        | [Abrir](./intervalo_pares.java) |
+| 14 | Fibonacci               | Imprime a sequência de Fibonacci até o n-ésimo termo                     | [Abrir](./fibonacci.java) |
+| 15 | Primos                  | Exibe todos os números primos dentro de um intervalo                     | [Abrir](./intervalo_primos.java) |
+| 16 | Media                   | Calcula média com 40% trabalho e 60% prova e mostra situação             | [Abrir](./media_aluno.java) |
+| 17 | Incremento              | Exibe números de 0 até o limite com incremento definido                  | [Abrir](./incremento.java) |
 
-<br>
-<br>
