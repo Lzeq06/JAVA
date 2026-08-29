@@ -1,17 +1,10 @@
 # Java - Repositório de Algoritmos, Lógica e Projetos NetBeans
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-17+-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge">
-  <img src="https://img.shields.io/badge/NetBeans%20Projects-13%20M%C3%B3dulos-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven Badge">
-  <img src="https://img.shields.io/badge/Algoritmos-38%20Resolu%C3%A7%C3%B5es-orange?style=for-the-badge" alt="Algoritmos Badge">
-  <img src="https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen?style=for-the-badge" alt="Status Badge">
-</p>
-
 Repositório estruturado contendo implementações em **Java**, incluindo projetos estruturados no Apache NetBeans com Maven, exercícios de prática autônoma e algoritmos clássicos de matemática, teoria dos números e desafios da OBI.
 
 ---
 
-## ☕ Projetos NetBeans
+## Projetos NetBeans
 
 Projetos estruturados com arquivos `pom.xml` e gerenciamento de compilação:
 
@@ -41,7 +34,7 @@ Projetos estruturados com arquivos `pom.xml` e gerenciamento de compilação:
 
 ---
 
-## 💡 Lógica e Prática Autônoma
+## Lógica e Prática Autônoma
 
 Exercícios focados em controle de fluxo, sintaxe e regras de negócio:
 
@@ -74,7 +67,7 @@ Exercícios focados em controle de fluxo, sintaxe e regras de negócio:
 
 ---
 
-## 📌 Sumário Geral de Algoritmos e OBI
+##  Sumário Geral de Algoritmos e OBI
 
 | Pasta | Nome do Exercício | Linguagem | Descrição | Link do Arquivo |
 | :--- | :--- | :---: | :--- | :---: |
